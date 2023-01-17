@@ -1,6 +1,6 @@
 ﻿# Order-Summary-Card
 Order summary card for small businesses. Available for use anytime.
-- Live link: https://orser-sums-card.netlify.app/
+- Live link: https://order-sums-card.netlify.app/
 
 <!--Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:-->
 
@@ -34,5 +34,4 @@ Order summary card for small businesses. Available for use anytime.
 ## Contact
 
 <!--- Website [your-website.com](https://{your-web-site-link})-->
-- LinkedIn [@Adedeji-Taiwo](https://{linkedin.com/in/adedeji-taiwo})
 - Twitter [@Ftaiwo1010](https://{twitter.com/Ftaiwo1010})
