@@ -4,7 +4,7 @@ Order summary card for small businesses. Available for use anytime.
 
 <!--Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:-->
 
-- Scientific Mode: ![screenshot](https://github.com/Adedeji-Taiwo/Dual-Calculator-App/blob/main/assets/img/screencapture-127-0-0-1-5500-index-html-2021-07-22-05_19_06.png)
+- Order-Summary-Card: ![screenshot](https://github.com/Ftaiwo1010/Order-Summary-Card/blob/main/images/Order-Summary-Component.png)
 
 
 ## Features
@@ -26,13 +26,13 @@ Order summary card for small businesses. Available for use anytime.
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Dribble](https://dribbble.com/)
+- [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](https://fontawesome.com/)
-- [Gsap](https://greensock.com) 
+- [Frontend Mentor](https://frontendmentor.io) 
 
 
 ## Contact
 
 <!--- Website [your-website.com](https://{your-web-site-link})-->
 - LinkedIn [@Adedeji-Taiwo](https://{linkedin.com/in/adedeji-taiwo})
-- Twitter [@Dhegyaino16](https://{twitter.com/Dhegyaino16})
+- Twitter [@Ftaiwo1010](https://{twitter.com/Ftaiwo1010})
